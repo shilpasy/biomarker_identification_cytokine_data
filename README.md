@@ -9,4 +9,5 @@ We aim to:
 
     Derive interpretable, assay-ready formulas that can inform early cancer detection and immune modulation in LFS models.
 
-All analyses are performed on a panel of 45 cytokines measured longitudinally across multiple timepoints and genotypes. The goal is to generate mechanistically relevant and experimentally testable hypotheses that can be extended to human studies.
+All analyses are performed on a panel of 45 cytokines measured longitudinally across multiple timepoints and genotypes. 
+The goal is to generate mechanistically relevant and experimentally testable hypotheses that can be extended to human studies and understand how rapamycin affects p53 mutant mice.
